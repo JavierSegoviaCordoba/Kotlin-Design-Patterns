@@ -1,4 +1,4 @@
-object User{
+object User {
     var name = "John"
 
     init {
